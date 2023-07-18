@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615804274 source:c:\users\shreyesh sharma\documents\uv batch\assignment 4\calculate sum of squares of first n natural numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

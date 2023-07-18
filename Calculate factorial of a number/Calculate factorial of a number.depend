@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615867897 source:c:\users\shreyesh sharma\documents\uv batch\assignment 4\calculate factorial of a number\main.c
+	<stdio.h>
+	<stdlib.h>
+
