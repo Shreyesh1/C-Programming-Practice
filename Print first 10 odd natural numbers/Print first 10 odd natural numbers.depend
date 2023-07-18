@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615782179 source:c:\users\shreyesh sharma\documents\uv batch\assignment 4\print first 10 odd natural numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

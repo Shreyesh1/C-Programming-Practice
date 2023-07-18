@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615783550 source:c:\users\shreyesh sharma\documents\uv batch\assignment 4\print first n odd natural numbers in reverse order\main.c
+	<stdio.h>
+	<stdlib.h>
+
