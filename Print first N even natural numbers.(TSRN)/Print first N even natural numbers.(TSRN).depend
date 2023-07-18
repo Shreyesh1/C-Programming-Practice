@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622309095 source:c:\users\shreyesh sharma\documents\uv batch\assignment 9\print first n even natural numbers.(tsrn)\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622311776 source:c:\users\shreyesh sharma\documents\uv batch\assignment 9\function to check a given number is even or odd.(tsrs)\main.c
+	<stdio.h>
+	<conio.h>
+

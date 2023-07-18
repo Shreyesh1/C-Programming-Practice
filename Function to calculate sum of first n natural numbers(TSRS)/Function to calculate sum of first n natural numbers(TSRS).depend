@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622310430 source:c:\users\shreyesh sharma\documents\uv batch\assignment 9\function to calculate sum of first n natural numbers(tsrs)\main.c
+	<stdio.h>
+	<stdlib.h>
+
