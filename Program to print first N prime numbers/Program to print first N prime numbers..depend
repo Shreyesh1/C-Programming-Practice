@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622049791 source:c:\users\shreyesh sharma\documents\uv batch\assignment 6\program to print first n prime numbers.\main.c
+	<stdio.h>
+	<stdlib.h>
+

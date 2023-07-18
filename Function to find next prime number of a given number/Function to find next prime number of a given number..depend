@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622485494 source:c:\users\shreyesh sharma\documents\uv batch\assignment 9\function to find next prime number of a given number.\main.c
+	<stdio.h>
+	<stdlib.h>
+
