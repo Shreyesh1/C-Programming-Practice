@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615004052 source:c:\users\shreyesh sharma\documents\uv batch\print given number without last digit\main.c
+	<stdio.h>
+	<stdlib.h>
+

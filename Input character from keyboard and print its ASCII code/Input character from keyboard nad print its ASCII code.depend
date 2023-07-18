@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615005375 source:c:\users\shreyesh sharma\documents\uv batch\input character from keyboard nad print its ascii code\main.c
+	<stdio.h>
+	<stdlib.h>
+

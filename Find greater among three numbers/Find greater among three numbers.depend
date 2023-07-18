@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615280510 source:c:\users\shreyesh sharma\documents\uv batch\find greater among three numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

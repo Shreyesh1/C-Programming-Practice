@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614851713 source:c:\users\shreyesh sharma\documents\uv batch\scanf\main.c
+	<stdio.h>
+	<stdlib.h>
+

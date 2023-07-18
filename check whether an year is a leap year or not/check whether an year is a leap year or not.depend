@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615265618 source:c:\users\shreyesh sharma\documents\uv batch\check whether an year is a leap year or not\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615264229 source:c:\users\shreyesh sharma\documents\uv batch\check whether a number is odd or even without using % operator\main.c
+	<stdio.h>
+	<stdlib.h>
+
